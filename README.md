@@ -5,6 +5,7 @@
 目前只实现了内部机器人和webhook机器人的使用方法。
 还有很多功能没有完善
 
+[![Latest Stable Version](http://poser.pugx.org/martialbe/laravel-dingtalk/v)](https://packagist.org/packages/martialbe/laravel-dingtalk) [![Total Downloads](http://poser.pugx.org/martialbe/laravel-dingtalk/downloads)](https://packagist.org/packages/martialbe/laravel-dingtalk) [![Latest Unstable Version](http://poser.pugx.org/martialbe/laravel-dingtalk/v/unstable)](https://packagist.org/packages/martialbe/laravel-dingtalk) [![License](http://poser.pugx.org/martialbe/laravel-dingtalk/license)](https://packagist.org/packages/martialbe/laravel-dingtalk) [![PHP Version Require](http://poser.pugx.org/martialbe/laravel-dingtalk/require/php)](https://packagist.org/packages/martialbe/laravel-dingtalk)
 ---
 
 ## 要求
