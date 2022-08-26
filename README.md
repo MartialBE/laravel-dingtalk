@@ -36,7 +36,7 @@ php artisan vendor:publish --provider="Martialbe\LaravelDingtalk\DingtalkService
 ```php
 'aliases' => [
     // ...
-    Martialbe\LaravelDingtalk\DingtalkServiceProvider::class,
+    'Dingtalk' => Martialbe\LaravelDingtalk\Facade::class,
 ],
 ```
 
