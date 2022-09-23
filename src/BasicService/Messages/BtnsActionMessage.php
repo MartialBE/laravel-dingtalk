@@ -86,7 +86,7 @@ class BtnsActionMessage extends BaseMessage
         }
 
         foreach ($this->options['btns'] as $btnKey => $bnt) {
-            $actionURLKey = $defaultKey."URL".($btnKey+1);
+            $actionURLKey = $defaultKey."Url".($btnKey+1);
             $actionTitleKey = $defaultKey."Title".($btnKey+1);
             $msgParam[$actionURLKey] = $bnt['actionURL'];
             $msgParam[$actionTitleKey] = $bnt['title'];
